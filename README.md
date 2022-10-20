@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
 
 👨🏻‍💻 Now I work and study ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-9cf?style=plastic&logo=php)
 
 🥅 I am constantly learning new things                                                                                                                                           
