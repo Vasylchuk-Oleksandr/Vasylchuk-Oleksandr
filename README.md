@@ -1,6 +1,6 @@
 ## <h1>Hi everyone, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> my name's Oleksandr 🤵</h1>
 
-![](https://komarev.com/ghpvc/?username=your-github-OleksandrVasylchuk&color=blue)
+![](https://komarev.com/ghpvc/?username=your-github-Vasylchuk-Oleksandr&color=blue)
 
 👨🏻‍💻 Now I work and study ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-9cf?style=plastic&logo=php)
@@ -40,7 +40,7 @@
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 ### 📈 GitHub Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OleksandrVasylchuk&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrVasylchuk&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vasylchuk-Oleksandr&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasylchuk-Oleksandr&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
